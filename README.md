@@ -85,10 +85,12 @@ class WhoAmI:
 
 ### Let's Connect :coffee:
 
-<a href="https://www.linkedin.com/in/devanfischer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/devanfischer) [![Twitter Badge](https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786)](https:www.twitter.com/devan_fischer) [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red)](mailto:contact@devanfischer.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF)](https:www.instagram.com/devan.fischer)
 
-<a href="https:www.twitter.com/devan_fischer" target="_blank"><img src="https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786" alt="Twitter Badge"/></a>
+<a href="https://www.linkedin.com/in/devanfischer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/></a>&nbsp;
 
-<a href="mailto:contact@devanfischer.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red" alt="Email Badge"/></a>
+<a href="https:www.twitter.com/devan_fischer"><img src="https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786" alt="Twitter Badge"/></a>&nbsp;
 
-<a href="https:www.instagram.com/devan.fischer" target="_blank"><img src="https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF" alt="Instagram Badge"/></a>
+<a href="mailto:contact@devanfischer.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red" alt="Email Badge"/></a>&nbsp;
+
+<a href="https:www.instagram.com/devan.fischer"><img src="https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF" alt="Instagram Badge"/></a>&nbsp;
