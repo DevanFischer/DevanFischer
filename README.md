@@ -85,6 +85,8 @@ class WhoAmI:
 
 ### Let's Connect :coffee:
 
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/Defcon27)
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/devanfischer) [![Twitter Badge](https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786)](https:www.twitter.com/devan_fischer) [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red)](mailto:contact@devanfischer.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF)](https:www.instagram.com/devan.fischer)
 
 <a href="https://www.linkedin.com/in/devanfischer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/></a>&nbsp;
