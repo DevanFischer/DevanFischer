@@ -1,6 +1,6 @@
 # Hey, [Devan here!](https://www.devanfischer.com)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Welcome to my collection of digital adventures..
+### Welcome to my collection of digital adventures..
 
 I am a US Army Veteran 🎖️ and a carreer switcher. I love coding in Python :snake:. The power of creating with code is what inspires me to learn more every day. There is always something new to learn as our tools continue to advance.
 
@@ -20,7 +20,7 @@ I am a US Army Veteran 🎖️ and a carreer switcher. I love coding in Python :
 <img src = './images/flask.png' width='30'/>
 <img src = './images/git.svg' width='30'/> -->
 
-## Who am I?
+### Who am I?
 
 ```python
 class WhoAmI:
@@ -45,7 +45,8 @@ class WhoAmI:
 ```
 
 <br/>
-## Tech Stack
+
+### Tech Stack
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
@@ -63,13 +64,14 @@ class WhoAmI:
 
 </details>
 <br/>
-## Current Works
+
+### Current Works
 
 - Learning about Styled Compnents and React
 - I'm currently working on building static sites with **Gatsby**
   <br/>
 
-## Other Stuff
+### Other Stuff
 
 - :octocat: [My Resume](https://devanfischer.com/resume)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
