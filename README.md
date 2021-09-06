@@ -44,8 +44,6 @@ class WhoAmI:
 
 ```
 
-<br/>
-
 ### Tech Stack
 
 <details>
@@ -63,18 +61,6 @@ class WhoAmI:
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 
 </details>
-<br/>
-
-### Current Works
-
-- Learning about Styled Compnents and React
-- I'm currently working on building static sites with **Gatsby**
-  <br/>
-
-### Other Stuff
-
-- :octocat: [My Resume](https://devanfischer.com/resume)
-- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
@@ -86,6 +72,16 @@ class WhoAmI:
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
+
+### Current Works
+
+- Learning about Styled Compnents and React
+- I'm currently working on building static sites with **Gatsby**
+
+### Other Stuff
+
+- :octocat: [My Resume](https://devanfischer.com/resume)
+- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 <br/>
 
