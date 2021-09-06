@@ -85,18 +85,4 @@ class WhoAmI:
 
 ### Let's Connect :coffee:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=ttps://www.linkedin.com/in/devanfischer)](https://www.linkedin.com/in/devanfischer)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786&link=https:www.twitter.com/devan_fischer)](https://www.twitter.com/devan_fischer)
-
-[![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red)](mailto:contact@devanfischer.com)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF&link=ttps:www.instagram.com/devan.fischer)](https://www.instagram.com/devan.fischer)
-
-<a href="https://www.linkedin.com/in/devanfischer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/></a>&nbsp;
-
-<a href="https://www.twitter.com/devan_fischer" target="_blank"><img src="https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786" alt="Twitter Badge"/></a>&nbsp;
-
-<a href="mailto:contact@devanfischer.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red" alt="Email Badge"/></a>&nbsp;
-
-<a href="https://www.instagram.com/devan.fischer" target="_blank"><img src="https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF" alt="Instagram Badge"/></a>&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/devanfischer)&nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786)](https://www.twitter.com/devan_fischer)&nbsp;[![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red)](mailto:contact@devanfischer.com)&nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF)](https://www.instagram.com/devan.fischer)
