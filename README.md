@@ -1,3 +1,4 @@
+<img src="./images/waves-3.svg" width="100%" >
 # Hey, [Devan here!](https://www.devanfischer.com)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Welcome to my collection of digital adventures..
@@ -88,3 +89,5 @@ class WhoAmI:
 ### Let's Connect :coffee:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/devanfischer)&nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786)](https://www.twitter.com/devan_fischer)&nbsp;[![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red)](mailto:contact@devanfischer.com)&nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF)](https://www.instagram.com/devan.fischer)
+
+<img src="./images/waves-bottom.svg" width="100%" >
