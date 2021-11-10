@@ -64,7 +64,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 ### Other Stuff
 
-- :octocat: [My Resume](https://devanfischer.com/resume)
+- :octocat: [My Resume](https://devanfischer.com/resume/Devan_Fischer_Resume.pdf)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 <br/>
