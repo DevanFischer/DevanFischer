@@ -4,7 +4,7 @@
 
 ### Welcome to my collection of digital adventures..
 
-I am a US Army Veteran 🎖️ and a carreer switcher. I love coding in Python :snake:. The power of creating with code is what inspires me to learn more every day. There is always something new to learn as our tools continue to advance.
+I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :snake:. The power of creating with code is what inspires me to learn more every day. There is always something new to learn as our tools continue to advance.
 <img src="./images/valley.svg" width="100%" >
 
 <!-- ### Programming Languages
@@ -22,30 +22,6 @@ I am a US Army Veteran 🎖️ and a carreer switcher. I love coding in Python :
 <img src = './images/django.svg' height='40'/>
 <img src = './images/flask.png' width='30'/>
 <img src = './images/git.svg' width='30'/> -->
-
-### Who am I?
-
-```python
-class WhoAmI:
-	user = 'Devan Fischer'
-		current_edu = "Associates of Science"
-		hobbies = [
-				'Photography',
-				'Outdoor Activities',
-				'Reading',
-				'Being up all Night chasing that ONE BUG...'
-			]
-
-	def get_city():
-		return Bend_Oregon()
-
-	def ambitions():
-		see_more_family()
-		build_a_home()
-		climb_smith_rock()
-		# Assume 10 more awesome ambitions here  ;)
-
-```
 
 ### Tech Stack
 
@@ -75,6 +51,11 @@ class WhoAmI:
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 ### Current Works
 
