@@ -7,22 +7,6 @@
 I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :snake:. The power of creating with code is what inspires me to learn more every day. There is always something new to learn as our tools continue to advance.
 <img src="./images/valley.svg" width="100%" >
 
-<!-- ### Programming Languages
-
-<img src = './images/python2.png' height='30'/>
-<img src = './images/html.svg' width='30'/>
-<img src = './images/css.svg' width='30'/>
-<img src = './images/js.svg' width='30'/>
-<img src = './images/bootstrap.svg' width='33'/>
-<img src = './images/sql.svg' width='30'/>
-
-### Technologies I Use
-
-<img src = './images/pycharm.svg' width='30'/>
-<img src = './images/django.svg' height='40'/>
-<img src = './images/flask.png' width='30'/>
-<img src = './images/git.svg' width='30'/> -->
-
 ### Tech Stack
 
 <details>
@@ -52,15 +36,14 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
     </p>
 </details>
 
-# Todoist Stats
+### Todoist Stats
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
 ### Current Works
 
-- Learning about Styled Compnents and React
-- I'm currently working on building static sites with **Gatsby**
+- Learning React and Styled Components
 
 ### Other Stuff
 
