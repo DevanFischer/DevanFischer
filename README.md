@@ -10,7 +10,6 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 ### Tech Stack
 
-<div style="padding-left:15px;">
 <details open>
   <summary style="list-style-type:▶️;"><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
@@ -37,11 +36,9 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
-</div>
 
 ### Todoist Stats
 
-<div style="padding-left: 15px; display:in-line">
 <!-- TODO-IST:START -->
 
 🏆 9,403 Karma Points
@@ -50,22 +47,15 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 ⏳ Longest streak is 3 days
 
 <!-- TODO-IST:END -->
-</div>
 
 ### Current Works
 
-<div style="padding-left: 15px;">
 :feet: Learning React and Styled Components
-</div>
 
 ### Other Stuff
 
-<div style="padding-left: 15px;">
-
 :octocat: [My Resume](https://devanfischer.com/resume/Devan_Fischer_Resume.pdf)
 If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
-
-</div>
 
 <br/>
 
