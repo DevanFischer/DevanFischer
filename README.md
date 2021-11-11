@@ -15,12 +15,15 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 ### Current Works
 
+<div style="padding-left:20px;">
 :feet: Learning React and Styled Components
+</div>
 
 ### Tech Stack
 
+<div style="padding-left:20px;">
 <details >
-<summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+<summary><b>Main tech knowledge</b>&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/bJnrEeUMcw8XTONEhM/giphy.gif" width="40px"></summary>
 <br/>
 
 <div align="center">
@@ -31,7 +34,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 </details>
 
 <details>
-<summary><b>:brain: &nbsp;Growing knowledge, always learning</b></summary>
+<summary><b>Growing knowledge, always learning</b></summary>
 <br/>
 <div align="center">
 
@@ -41,7 +44,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 </details>
 
 <details >
-<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+<summary><b>GitHub Statistics</b></summary>
 <br/>
 
 <div align="center">
@@ -60,7 +63,10 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=react&bg_color=236E8C" />
 </div>
 </details>
-<img src="https://media.giphy.com/media/U7helkiPxHjsY5bs5h/giphy.gif" width="50px">
+
+</div>
+
+<div style="padding-left:20px;">
 
 ### Todoist Statistics
 
@@ -73,11 +79,16 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 <!-- TODO-IST:END -->
 
+</div>
+
 ### Other Stuff
+
+<div style="padding-left:20px;">
 
 :octocat: [My Resume](https://devanfischer.com/resume/Devan_Fischer_Resume.pdf)
 If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
+</div>
 <br/>
 
 ### Let's Connect :coffee:
