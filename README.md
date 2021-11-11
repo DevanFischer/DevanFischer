@@ -36,20 +36,32 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
 <br/>
+<!-- 
+<div align="center">
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanFischer&hide_border=true&theme=synthwave" />
+</div> -->
+
+<!-- <div align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=synthwave" />
+</div> -->
+
+<!-- <div align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=synthwave" />
+</div> -->
 
 <div align="center">
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanFischer&hide_border=true&theme=nightowl" />
-</div>
 
-<div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
-</div>
+[![Devan's Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevanFischer&hide_border=true&theme=synthwave)](https://wakatime.com/@DevanFischer)
 
-<div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+[![Devan's Github Stats](https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=synthwave)](https://wakatime.com/@DevanFischer)
+
+[![Devan's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevanFischer&hide_title=true@layout=compact&theme=synthwave)](https://wakatime.com/@DevanFischer)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=synthwave)](https://wakatime.com/@DevanFischer)
+
 </div>
 </details>
 
