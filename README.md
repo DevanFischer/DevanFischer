@@ -1,3 +1,8 @@
+<style>
+    details summary {
+        list-style:none;
+        }
+</style>
 <img src="./images/wave.svg" width="100%" >
 
 # Hi, [I'm Devan! ](https://www.devanfischer.com)<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
@@ -14,7 +19,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 ### Tech Stack
 
-<details open >
+<details >
 <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
 <br/>
 
@@ -35,42 +40,37 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 </div>
 </details>
 
-<details>
+<details >
 <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
 <br/>
-<!-- 
-<div align="center">
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanFischer&hide_border=true&theme=synthwave" />
-</div> -->
-
-<!-- <div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=synthwave" />
-</div> -->
-
-<!-- <div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=synthwave" />
-</div> -->
 
 <div align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_border=true&theme=react&bg_color=236E8C" />
+</div>
 
-[![Devan's Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevanFischer&hide_border=true&theme=synthwave)](https://wakatime.com/@DevanFischer)
+<div align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react&bg_color=236E8C" />
+</div>
 
-[![Devan's Github Stats](https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=synthwave)](https://wakatime.com/@DevanFischer)
+<div align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevanFischer&hide_border=true&hide_title=true&theme=react&bg_color=236E8C" />
+</div>
 
-[![Devan's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevanFischer&hide_title=true&hide_border=true&layout=compact&theme=synthwave)](https://wakatime.com/@DevanFischer)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=synthwave)](https://wakatime.com/@DevanFischer)
-
+<div align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=react&bg_color=236E8C" />
 </div>
 </details>
+<img src="https://media.giphy.com/media/U7helkiPxHjsY5bs5h/giphy.gif" width="50px">
 
 ### Todoist Statistics
 
 <!-- TODO-IST:START -->
-🏆  9,410 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 1,000 tasks so far           
-⏳  Longest streak is 3 days
+
+🏆 9,410 Karma Points  
+🌸 Completed 1 tasks today  
+✅ Completed 1,000 tasks so far  
+⏳ Longest streak is 3 days
+
 <!-- TODO-IST:END -->
 
 ### Other Stuff
