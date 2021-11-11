@@ -1,3 +1,9 @@
+<style>
+  details summary {
+    list-style-type: '▶️';
+  }
+</style>
+
 <img src="./images/wave.svg" width="100%" >
 
 # Hi, [I'm Devan! ](https://www.devanfischer.com)<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
@@ -5,11 +11,13 @@
 ### Welcome to my collection of digital adventures..
 
 I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :snake:. The power of creating with code is what inspires me to learn more every day. There is always something new to learn as our tools continue to advance.
+
 <img src="./images/valley.svg" width="100%" >
 
 ### Tech Stack
 
-<details>
+<div style="padding-left:15px;">
+<details open>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -35,24 +43,35 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
+</div>
 
 ### Todoist Stats
 
+<div style="padding-left: 15px;">
 <!-- TODO-IST:START -->
-🏆  9,403 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 999 tasks so far           
-⏳  Longest streak is 3 days
+
+🏆 9,403 Karma Points
+🌸 Completed 0 tasks today
+✅ Completed 999 tasks so far
+⏳ Longest streak is 3 days
+
 <!-- TODO-IST:END -->
+</div>
 
 ### Current Works
 
-- Learning React and Styled Components
+<div style="padding-left: 15px;">
+:feet: Learning React and Styled Components
+</div>
 
 ### Other Stuff
 
-- :octocat: [My Resume](https://devanfischer.com/resume/Devan_Fischer_Resume.pdf)
-- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+<div style="padding-left: 15px;">
+
+:octocat: [My Resume](https://devanfischer.com/resume/Devan_Fischer_Resume.pdf)
+If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+
+</div>
 
 <br/>
 
