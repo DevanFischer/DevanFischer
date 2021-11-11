@@ -1,9 +1,3 @@
-<style>
-  details summary {
-    list-style-type: '▶️';
-  }
-</style>
-
 <img src="./images/wave.svg" width="100%" >
 
 # Hi, [I'm Devan! ](https://www.devanfischer.com)<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
@@ -18,7 +12,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 <div style="padding-left:15px;">
 <details open>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary style="list-style-type:▶️;"><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)
@@ -26,7 +20,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Growing knowledge, always learning</b></summary>
+  <summary style="list-style-type:▶️;"><b>:brain: &nbsp;Growing knowledge, always learning</b></summary>
   <br/>
 
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
@@ -34,7 +28,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary style="list-style-type:▶️;"><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanFischer&hide_border=true&theme=nightowl" />
@@ -47,7 +41,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 ### Todoist Stats
 
-<div style="padding-left: 15px;">
+<div style="padding-left: 15px; display:in-line">
 <!-- TODO-IST:START -->
 
 🏆 9,403 Karma Points
