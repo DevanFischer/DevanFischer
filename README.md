@@ -18,7 +18,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 <div style="margin-left:20px;">
 <details >
-<summary style="list-style:none;"><b>Main tech knowledge</b>&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/bJnrEeUMcw8XTONEhM/giphy.gif" width="40px"></summary>
+<summary style="list-style:none;"><b>Main tech knowledge&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/bJnrEeUMcw8XTONEhM/giphy.gif" width="40px"></b></summary>
 <br/>
 
 <div align="center">
