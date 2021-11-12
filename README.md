@@ -1,8 +1,3 @@
-<style>
-    details summary {
-        list-style:none;
-        }
-</style>
 <img src="./images/wave.svg" width="100%" >
 
 # Hi, [I'm Devan! ](https://www.devanfischer.com)<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
@@ -15,15 +10,15 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 ### Current Works
 
-<div style="padding-left:20px;">
+<div style="margin-left:20px;">
 :feet: Learning React and Styled Components
 </div>
 
 ### Tech Stack
 
-<div style="padding-left:20px;">
+<div style="margin-left:20px;">
 <details >
-<summary><b>Main tech knowledge</b>&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/bJnrEeUMcw8XTONEhM/giphy.gif" width="40px"></summary>
+<summary style="list-style:none;"><b>Main tech knowledge</b>&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/bJnrEeUMcw8XTONEhM/giphy.gif" width="40px"></summary>
 <br/>
 
 <div align="center">
@@ -34,7 +29,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 </details>
 
 <details>
-<summary><b>Growing knowledge, always learning</b></summary>
+<summary style="list-style:none;"><b>Growing knowledge, always learning</b></summary>
 <br/>
 <div align="center">
 
@@ -43,45 +38,47 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 </div>
 </details>
 
-<details >
-<summary><b>GitHub Statistics</b></summary>
+<details>
+<summary style="list-style:none;"><b>GitHub Statistics</b></summary>
 <br/>
 
 <div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_border=true&theme=react&bg_color=236E8C" />
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanFischer&hide_border=true&theme=radical&background=236E8C" />
 </div>
 
 <div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react&bg_color=236E8C" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=false&hide=stars&include_all_commits=true&count_private=true&line_height=21&theme=radical&bg_color=236E8C" />
 </div>
 
 <div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevanFischer&hide_border=true&hide_title=true&theme=react&bg_color=236E8C" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevanFischer&hide_border=true&hide_title=true&theme=radical&bg_color=236E8C" />
 </div>
 
 <div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=react&bg_color=236E8C" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical&bg_color=236E8C" />
 </div>
 </details>
 
 </div>
 
-<div style="padding-left:20px;">
+<div style="margin-left:20px;">
 
 ### Todoist Statistics
 
 <!-- TODO-IST:START -->
-🏆  9,410 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 1,001 tasks so far           
-⏳  Longest streak is 3 days
+
+🏆 9,410 Karma Points  
+🌸 Completed 2 tasks today  
+✅ Completed 1,001 tasks so far  
+⏳ Longest streak is 3 days
+
 <!-- TODO-IST:END -->
 
 </div>
 
 ### Other Stuff
 
-<div style="padding-left:20px;">
+<div style="margin-left:20px;">
 
 :octocat: [My Resume](https://devanfischer.com/resume/Devan_Fischer_Resume.pdf)
 If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
