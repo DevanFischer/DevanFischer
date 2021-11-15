@@ -50,13 +50,13 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DevanFischer&hide_title=true&hide_border=true&show_icons=false&hide=stars&include_all_commits=true&count_private=true&line_height=21&theme=radical&bg_color=236E8C" />
 </div>
 
-<div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevanFischer&hide_border=true&hide_title=true&theme=radical&bg_color=236E8C" />
-</div>
-
 <!-- <div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical&bg_color=236E8C" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevanFischer&hide_border=true&hide_title=true&theme=radical&bg_color=236E8C" />
 </div> -->
+
+<div align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical&bg_color=236E8C" />
+</div>
   
 </details>
 
