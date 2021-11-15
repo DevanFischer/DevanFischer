@@ -54,9 +54,9 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 <img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevanFischer&hide_border=true&hide_title=true&theme=radical&bg_color=236E8C" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical&bg_color=236E8C" />
-</div>
+</div> -->
   
 </details>
 
