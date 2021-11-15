@@ -57,10 +57,6 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 <div align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanFischer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical&bg_color=236E8C" />
 </div>
-
-<div align="center">
-<img src="https://github.com/DevanFischer/DevanFischer/blob/main/images/stat.svg" alt="Devan's WakaTime Activity"/>
-</div>
   
 </details>
 
@@ -78,6 +74,8 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 <!-- TODO-IST:END -->
 
 </div>
+
+### WakaTime Statistics
 
 ### Other Stuff
 
