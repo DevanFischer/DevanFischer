@@ -77,6 +77,10 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 ### WakaTime Statistics
 
+<div>
+<img src="https://github.com/DevanFischer/DevanFischer/blob/main/images/stat.svg" alt="Devan's WakaTime Activity"/>
+</div>
+
 ### Other Stuff
 
 <div style="margin-left:20px;">
@@ -89,7 +93,7 @@ If you have any suggestions to this README, feel free to pull up a request. And 
 
 ### Let's Connect :coffee:
 
-<div align="center">
+<div align="left">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/devanfischer)&nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786)](https://www.twitter.com/devan_fischer)&nbsp;[![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red)](mailto:contact@devanfischer.com)&nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF)](https://www.instagram.com/devan.fischer)
 
