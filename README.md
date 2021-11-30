@@ -65,7 +65,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 ### Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dfischer91&cover_image=true&theme=natemoo-re&bar_color=38b2e0&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dfischer91&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dfischer91&cover_image=true&theme=novatorem&bar_color=36afdd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dfischer91&redirect=true)
 
 <div style="margin-left:20px;">
 
