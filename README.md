@@ -8,9 +8,10 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 <img src="./images/valley.svg" width="100%" >
 
+
 ### Current Works
 
-<div style="margin-left:20px;">
+<div style="margin-left:20px;" display="flex">
 :feet: Learning React and Styled Components
 </div>
 
@@ -61,6 +62,10 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 </details>
 
 </div>
+
+### Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dfischer91&cover_image=true&theme=natemoo-re&bar_color=38b2e0&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dfischer91&redirect=true)
 
 <div style="margin-left:20px;">
 
