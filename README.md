@@ -72,7 +72,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 ### Todoist Statistics
 
 <!-- TODO-IST:START -->
-🏆  10,004 Karma Points           
+🏆  10,007 Karma Points           
 🌸  Completed 1 tasks today           
 ✅  Completed 1,086 tasks so far           
 ⏳  Longest streak is 3 days
