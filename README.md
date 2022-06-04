@@ -1,6 +1,6 @@
 <img src="./images/wave.svg" width="100%" >
 
-# Hi, [I'm Devan! ](https://www.devanfischer.com)<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" style="{width:"20px"}>
+# Hi, [I'm Devan! ](https://www.devanfischer.com)<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width=30>
 
 ### Welcome to my collection of digital adventures..
 
@@ -19,7 +19,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 
 <div style="margin-left:20px;">
 <details >
-<summary style="list-style:none;"><b>Main tech knowledge&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/bJnrEeUMcw8XTONEhM/giphy.gif" width="40px"></b></summary>
+<summary style="list-style:none;"><b>Main tech knowledge&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/bJnrEeUMcw8XTONEhM/giphy.gif" width=40></b></summary>
 <br/>
 
 <div align="center">
