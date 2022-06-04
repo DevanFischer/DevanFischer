@@ -1,6 +1,6 @@
 <img src="./images/wave.svg" width="100%" >
 
-# Hi, [I'm Devan! ](https://www.devanfischer.com)<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="20px">
+# Hi, [I'm Devan! ](https://www.devanfischer.com)<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" style="{width:"20px"}>
 
 ### Welcome to my collection of digital adventures..
 
