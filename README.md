@@ -4,7 +4,9 @@
 
 ### Welcome to my collection of digital adventures..
 
-I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :snake:. The power of creating with code is what inspires me to learn more every day. There is always something new to learn as our tools continue to advance.
+I am a US Army Veteran 🎖️ and a full-stack software developer. The power of creating with code is what inspires me to learn more every day. There is always something new to learn as our tools continue to advance. 
+
+I currently work as a Lead Software Developer for Mazama Media, a digital marketing and SaaS company. I manage a team of developers where we as a team develop, maintain, and impove a large collection of cloud hosted APIs that provide services to an omni-channel chat bot also built and maintained by us. We are currently working with the government "Lifeline Program" with the primary purpose of helping Telecom companies enroll new subscribers into the Lifeline program through a open chat channel such as Facebook Messenger.
 
 <img src="./images/valley.svg" width="100%" >
 
@@ -12,7 +14,7 @@ I am a US Army Veteran 🎖️ and a career switcher. I love coding in Python :s
 ### Current Works
 
 <div style="margin-left:20px;" display="flex">
-:feet: Learning React and Styled Components
+:feet: Developing an AI chatbot utelizing Rasa Open Source to transform our current chatbot into a contextual bot utelizing deep-learning models
 </div>
 
 ### Tech Stack
@@ -98,7 +100,7 @@ If you have any suggestions to this README, feel free to pull up a request. And 
 
 ### Let's Connect :coffee:
 
-<div align="center">
+<div align="left">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/devanfischer)&nbsp;[![Twitter Badge](https://img.shields.io/badge/Twitter-657786?style=flat&logo=Twitter&labelColor=657786)](https://www.twitter.com/devan_fischer)&nbsp;[![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=Mail.Ru&labelColor=red)](mailto:contact@devanfischer.com)&nbsp;[![Instagram Badge](https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=Instagram&labelColor=8134AF)](https://www.instagram.com/devan.fischer)
 
