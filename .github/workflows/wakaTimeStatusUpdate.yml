@@ -18,7 +18,7 @@ jobs:
           # Automatic GitHub token
           GITHUB_TOKEN: ${{ github.token }}
           # Branch - newer GitHub repositories have "main" as the default branch; change to main in that case. Default is master
-          BRANCH: "master"
+          BRANCH: "main"
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated WakaTime Stats Update :alien:"
           # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
