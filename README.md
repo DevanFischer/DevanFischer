@@ -1,3 +1,6 @@
+<div
+  style="background:url(./images/ripples.svg)">
+
 <img src="./images/wave.svg" width="100%" >
 
 # Hi, [I'm Devan! ](https://www.devanfischer.com)<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width=30>
@@ -107,3 +110,4 @@ If you have any suggestions to this README, feel free to pull up a request. And 
 </div>
 
 <img src="./images/wave-bottom.svg" width="100%" >
+</div>
