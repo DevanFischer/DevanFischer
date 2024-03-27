@@ -75,9 +75,9 @@ I currently work as a Lead Software Developer for Mazama Media, a digital market
 ### Todoist Statistics
 
 <!-- TODO-IST:START -->
-🏆  10,941 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,348 tasks so far           
+🏆  10,944 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 1,349 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
