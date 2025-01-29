@@ -6,7 +6,7 @@
 
 I am a US Army Veteran 🎖️ and a full-stack software developer. The power of creating with code is what inspires me to learn more every day. There is always something new to learn as our tools continue to advance. 
 
-I currently work as a Lead Software Developer for Mazama Media, a digital marketing and SaaS company. I manage a team of developers where we as a team develop, maintain, and impove a large collection of cloud hosted APIs that provide services to an omni-channel chat bot also built and maintained by us. We are currently working with the government "Lifeline Program" with the primary purpose of helping Telecom companies enroll new subscribers into the Lifeline program through a open chat channel such as Facebook Messenger.
+I currently work as a Technical Consultant for Comlink Media, a digital marketing and SaaS company. I manage a team of developers where we as a team develop, maintain, and impove a large collection of cloud hosted APIs that provide services to an omni-channel chat bot also built and maintained by us.
 
 
 <img src="./images/waves-middle.svg" width="100%" >
