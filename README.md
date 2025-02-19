@@ -76,7 +76,7 @@ I currently work as a Technical Consultant for Comlink Media, a digital marketin
 
 <!-- TODO-IST:START -->
 🏆  11,995 Karma Points           
-🌸  Completed 4 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 1,490 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
