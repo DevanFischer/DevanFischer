@@ -66,28 +66,6 @@ I currently work as a Technical Consultant for Comlink Media, a digital marketin
 
 </div>
 
-### Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dfischer91&cover_image=true&theme=novatorem&bar_color=36afdd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dfischer91&redirect=true)
-
-<div style="margin-left:20px;">
-
-### Todoist Statistics
-
-<!-- TODO-IST:START -->
-🏆  12,001 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,493 tasks so far           
-⏳  Longest streak is 3 days
-<!-- TODO-IST:END -->
-
-</div>
-
-### WakaTime Statistics
-
-<div>
-<img src="https://github.com/DevanFischer/DevanFischer/blob/main/images/stat.svg" alt="Devan's WakaTime Activity"/>
-</div>
 
 ### Other Stuff
 
