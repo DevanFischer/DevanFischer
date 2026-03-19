@@ -14,12 +14,11 @@ I build AI systems that work in the real world. At [LearnAIR](https://www.learna
 
 ---
 
+<div align="center">
+
 ### What I'm Working On
 
-- Designing and building AI agent systems for real-world automation
-- AI training pipelines and fine-tuning workflows
-- Implementing AI solutions end-to-end — from prototype to production
-- Exploring multi-agent architectures and LLM orchestration
+Designing and building AI agent systems for real-world automation &nbsp;·&nbsp; AI training pipelines and fine-tuning workflows &nbsp;·&nbsp; Implementing AI solutions end-to-end — from prototype to production &nbsp;·&nbsp; Exploring multi-agent architectures and LLM orchestration
 
 ---
 
@@ -34,5 +33,7 @@ I build AI systems that work in the real world. At [LearnAIR](https://www.learna
 ### Dev Tools & Environment
 
 [![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)](https://git-scm.com)&nbsp;[![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)](https://github.com)&nbsp;[![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)](https://docker.com)&nbsp;[![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=black)](https://kernel.org)&nbsp;[![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)](https://code.visualstudio.com)<br>[![iTerm2](https://img.shields.io/badge/ITERM2-000000.svg?&style=flat&logo=iterm2&logoColor=white)](https://iterm2.com)&nbsp;[![Oh My Zsh](https://img.shields.io/badge/OH--MY--ZSH-1A2C3B.svg?&style=flat&logo=zsh&logoColor=white)](https://ohmyz.sh)&nbsp;[![Obsidian](https://img.shields.io/badge/OBSIDIAN-7C3AED.svg?&style=flat&logo=obsidian&logoColor=white)](https://obsidian.md)&nbsp;[![Raycast](https://img.shields.io/badge/RAYCAST-FF6363.svg?&style=flat&logo=raycast&logoColor=white)](https://raycast.com)&nbsp;[![Superwhisper](https://img.shields.io/badge/SUPERWHISPER-000000.svg?&style=flat&logo=openai&logoColor=white)](https://superwhisper.com)&nbsp;[![Comet](https://img.shields.io/badge/COMET-5B4FBF.svg?&style=flat&logo=googlechrome&logoColor=white)](https://cometbrowser.com)
+
+</div>
 
 <img src="./images/waves-bottom.svg" width="100%" >
