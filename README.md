@@ -18,7 +18,10 @@ I build AI systems that work in the real world. At [LearnAIR](https://www.learna
 
 ### What I'm Working On
 
-Designing and building AI agent systems for real-world automation &nbsp;·&nbsp; AI training pipelines and fine-tuning workflows &nbsp;·&nbsp; Implementing AI solutions end-to-end — from prototype to production &nbsp;·&nbsp; Exploring multi-agent architectures and LLM orchestration
+▸ Designing and building AI agent systems for real-world automation<br>
+▸ AI training pipelines and fine-tuning workflows<br>
+▸ Implementing AI solutions end-to-end — from prototype to production<br>
+▸ Exploring multi-agent architectures and LLM orchestration
 
 ---
 
